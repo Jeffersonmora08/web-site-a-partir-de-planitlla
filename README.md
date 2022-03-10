@@ -1,2 +1,2 @@
-# web-site-a-partir-de-planitlla
+# web-site-a-partir-de-plantilla
 Crear un Web Site con la plantilla proporcionada
